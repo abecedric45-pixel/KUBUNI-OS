@@ -1,4 +1,22 @@
-# KUBUNI OS Logo V3 Specification
+---## Concept V3 — Losange Central
+
+Le logo V3 conserve :
+
+- Cercle vert émeraude (#009B77)
+- Contour orange innovation (#FF7A00)
+- Symbole doré (#D4AF37)
+
+Évolutions :
+
+- K plus épais
+- Meilleure lisibilité mobile
+- Intégration d'un losange central
+- Inspiration géométrique africaine moderne
+- Symbole plus distinctif que le K classique
+
+Objectif :
+
+Créer une identité visuelle forte pour KUBUNI OS tout en restant simple, moderne et reconnaissable.# KUBUNI OS Logo V3 Specification
 
 ## Objectif
 

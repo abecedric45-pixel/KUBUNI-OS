@@ -8,18 +8,27 @@
         stroke="#FF7A00"
         stroke-width="20"/>
 
-    <path
-        d="M190 140
-           L190 372
-           L235 372
-           L235 275
-           L330 372
-           L385 372
-           L275 256
-           L385 140
-           L330 140
-           L235 235
-           L235 140 Z"
+    <!-- Barre verticale -->
+    <rect
+        x="175"
+        y="140"
+        width="55"
+        height="232"
         fill="#D4AF37"/>
+
+    <!-- Branche supérieure -->
+    <polygon
+        points="230,256 330,140 390,140 285,256"
+        fill="#D4AF37"/>
+
+    <!-- Branche inférieure -->
+    <polygon
+        points="230,256 285,256 390,372 330,372"
+        fill="#D4AF37"/>
+
+    <!-- Losange central -->
+    <polygon
+        points="256,220 292,256 256,292 220,256"
+        fill="#FF7A00"/>
 
 </svg>

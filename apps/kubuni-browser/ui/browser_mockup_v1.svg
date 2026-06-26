@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920">
+
+    <!-- Fond général -->
+    <rect width="1080" height="1920" fill="#081225"/>
+
+    <!-- Barre supérieure -->
+    <rect x="0" y="0" width="1080" height="160" fill="#0F1B33"/>
+
+    <!-- Barre d'adresse -->
+    <rect x="40" y="40" width="760" height="80" rx="40"
+          fill="#1A2742"/>
+
+    <text x="90" y="90"
+          font-size="30"
+          fill="#BFC7D5">
+        kubuni://accueil
+    </text>
+
+    <!-- Bouton IA -->
+    <circle cx="900" cy="80" r="45"
+            fill="#009B77"/>
+
+    <text x="878" y="92"
+          font-size="24"
+          fill="white">
+        AI
+    </text>
+
+    <!-- Profil -->
+    <circle cx="1010" cy="80" r="35"
+            fill="#FF7A00"/>
+
+    <!-- Carte principale -->
+    <rect x="30" y="190"
+          width="1020"
+          height="1450"
+          rx="25"
+          fill="#0F1B33"/>
+
+    <!-- Zone recherche IA -->
+    <rect x="80" y="260"
+          width="920"
+          height="100"
+          rx="50"
+          fill="#1A2742"/>
+
+    <text x="130" y="320"
+          font-size="34"
+          fill="#FFFFFF">
+        Demandez à KUBUNI AI...
+    </text>
+
+    <!-- Favoris -->
+    <circle cx="180" cy="500" r="55" fill="#009B77"/>
+    <circle cx="380" cy="500" r="55" fill="#FF7A00"/>
+    <circle cx="580" cy="500" r="55" fill="#D4AF37"/>
+    <circle cx="780" cy="500" r="55" fill="#009B77"/>
+
+    <!-- Actualités -->
+    <rect x="80" y="650"
+          width="920"
+          height="220"
+          rx="20"
+          fill="#1A2742"/>
+
+    <!-- Recommandations IA -->
+    <rect x="80" y="920"
+          width="920"
+          height="220"
+          rx="20"
+          fill="#1A2742"/>
+
+    <!-- Historique -->
+    <rect x="80" y="1190"
+          width="920"
+          height="220"
+          rx="20"
+          fill="#1A2742"/>
+
+    <!-- Barre de navigation -->
+    <rect x="0" y="1780"
+          width="1080"
+          height="140"
+          fill="#0F1B33"/>
+
+    <!-- Icônes -->
+    <circle cx="180" cy="1850" r="25" fill="#009B77"/>
+    <circle cx="380" cy="1850" r="25" fill="#FFFFFF"/>
+    <circle cx="580" cy="1850" r="25" fill="#FFFFFF"/>
+    <circle cx="780" cy="1850" r="25" fill="#FFFFFF"/>
+    <circle cx="980" cy="1850" r="25" fill="#FF7A00"/>
+
+</svg>

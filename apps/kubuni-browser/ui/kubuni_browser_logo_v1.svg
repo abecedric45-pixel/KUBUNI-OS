@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+
+    <!-- Cercle principal -->
+    <circle
+        cx="256"
+        cy="256"
+        r="220"
+        fill="#009B77"
+        stroke="#FF7A00"
+        stroke-width="20"/>
+
+    <!-- Anneau navigation -->
+    <circle
+        cx="256"
+        cy="256"
+        r="150"
+        fill="none"
+        stroke="#D4AF37"
+        stroke-width="16"/>
+
+    <!-- Pointe de navigation -->
+    <polygon
+        points="256,120 300,240 256,220 212,240"
+        fill="#FF7A00"/>
+
+    <!-- Lettre K -->
+    <path
+        d="M180 150
+           L180 362
+           L230 362
+           L230 270
+           L330 362
+           L390 362
+           L275 256
+           L390 150
+           L330 150
+           L230 240
+           L230 150 Z"
+        fill="#D4AF37"/>
+
+</svg>
